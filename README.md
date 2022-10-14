@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/datbe2002/car-shop-mini-client/blob/master/public/myName.gif?raw=true" align="center" style="width: 80%"/>
+<img src="https://github.com/datbe2002/car-shop-mini-client/blob/master/public/final.gif?raw=true" align="center" style="width: 80%"/>
 </div>  
   
 
