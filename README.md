@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tan Dat, a full-stack developer 👨‍💻 learning and working since 2021 🚀</div>  
+### <div align="center"> 👨‍💻 learning and working since 2021 🚀</div>  
   
 
 - 🔭 I’m currently learning in FPT University HCM  
